@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+img{
+    width: 80%;
+    height: auto;
+    display: block;
+}
+.result{
+    width: 50%;
+    background-color: rgba(255, 255, 255, 0.25);
+    backdrop-filter: blur(10px);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+    text-align: left;
+    padding:50px;
+    margin: 0 auto;
+    color:white;
+}
+b{
+    color:black;
+}
+
